@@ -1,0 +1,60 @@
+.corps{
+    padding-top: 80px;
+}
+
+
+.text-baniere{
+    
+    background-image: url('./img/baniere1.png');
+    height: 50px;
+    margin: 0px;
+    font-size: 16px;
+    color: white;
+    padding-top: 30px;
+    padding-left: 20px;
+    
+}
+
+.baniere{
+    margin-top: -30px;
+    width: 100%;
+}
+
+.titre{
+    font-size: 15px;
+    color: #033E64;
+    
+}
+
+.selection{
+    padding-left: 10px;
+    padding-right: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.bouton-confirmer{
+    color: white;
+    background-color: #033E64;
+    width: 115px;
+    height: 38px;
+    border-radius: 13px;
+    margin-top: 30%;
+}
+
+.description{
+    font-size: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.video{
+    width: 80%;
+    margin-left: 10%;
+}
+
+.lien{
+    color: white;
+    text-decoration: none;
+}
